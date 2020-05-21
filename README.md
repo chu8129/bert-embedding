@@ -1,7 +1,7 @@
 ```
 原因：
     1、我只想提取embedding，不需要其他
-    2、token借鉴了别人的代码，不记得是哪份了，跟bert-as-service对比过，特征值对的上
+    2、token借鉴了别人的代码，不记得是哪份了，跟bert-as-service对比过，embedding对的上
     3、这份东西的目的是：精简，看得懂，不想用接口～
 ```
 ```
